@@ -1,4 +1,4 @@
-#Universidad de las Fuerzas Armadas "ESPE"
+Universidad de las Fuerzas Armadas "ESPE"
 
 Asignatura: Fundamentos de Circuitos Eléctricos
 
