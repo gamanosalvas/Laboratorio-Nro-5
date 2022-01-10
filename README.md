@@ -1,9 +1,10 @@
+#Universidad de las Fuerzas Armadas "ESPE"
 
 Asignatura: Fundamentos de Circuitos Eléctricos
 
 Docente: Ing. Darwin Alulema
 
-Integrantes: Mera Erick, Quilumbaquín Lenin, Vallejo Keily
+Integrantes: Allauca Steven, Lucero Danilo, Manosalvas Gabriel
 
 Semestre: Segundo
 
