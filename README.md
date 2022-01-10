@@ -12,6 +12,7 @@ Parcial: 2
 Laboratorio Nro: 5
 
 Tema : Teorema de Thévenin
+
 1.- Objetivos
 Objetivo general :
 
