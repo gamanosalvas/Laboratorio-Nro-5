@@ -31,7 +31,11 @@ Objetivos Específicos :
 
 2.- Marco Teorico
 
+![image](https://user-images.githubusercontent.com/94025287/149041073-84efa8dc-ef26-4b6b-95fd-f74d902cd84b.png)
+
+
 3.- Explicacion Del Procedimiento
+
 Material y Equipo Requerido
 
 ![image](https://user-images.githubusercontent.com/94025287/148799826-dabb5ce1-9052-496f-9a9c-c6e936d93df6.png)
@@ -52,12 +56,17 @@ Calculos Analiticos:
 
 3.6 Valores del Circuito Equivalente de Thévenin
 
+![image](https://user-images.githubusercontent.com/94025287/149041230-19c02d5a-c790-4d29-9ae8-1431b0bc881f.png)
+
 3.7 Comprobación del Teorema de Thévenin.
+
+![image](https://user-images.githubusercontent.com/94025287/149041254-69b1966d-b97a-4ac7-9989-b76abefa3daf.png)
 
 4.- Video
 
 
 5.- Conclusiones
+
 • Al concluir la práctica concluimos que este teorema es muy útil porque nos permite reducir una red de configuración completa en una de configuración sencilla y así permitirnos realizar más rápido los cálculos.
 
 • Concluimos que todo circuito por más complejo que sea, visto desde dos terminales concretos, es equivalente a un generador ideal de tensión en serie con una resistencia.
