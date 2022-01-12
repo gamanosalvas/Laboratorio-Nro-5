@@ -54,6 +54,24 @@ Material y Equipo Requerido
 
 Calculos Analiticos:
 
+![image](https://user-images.githubusercontent.com/94025287/149046673-69244b2c-b744-4776-ab2d-cf80bcda70bf.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149046697-f682d9ec-eabf-40fa-bb65-af9ba3a3e8b1.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149047010-6491a918-e227-4b20-8a38-e6a86092c5c2.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149047091-158145e8-eaa5-4856-846c-2ea5945a0c2b.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149047661-5a34fd68-ab1d-44e1-99b7-40ce4ed0d411.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149047723-e9adbe1f-25e6-46c0-92c0-cf443d0d8c67.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149047771-78f0edbd-e06e-4915-a643-1c6f867bdfa5.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149048045-3b0b7899-1abd-429f-b58b-5ec5eb706b1b.png)
+
+
+
 3.6 Valores del Circuito Equivalente de Thévenin
 
 ![image](https://user-images.githubusercontent.com/94025287/149041230-19c02d5a-c790-4d29-9ae8-1431b0bc881f.png)
