@@ -46,11 +46,23 @@ Material y Equipo Requerido
 
 3.2 Mida el voltaje y la corriente en el resistor R5
 
+![image](https://user-images.githubusercontent.com/94025287/149356923-075a8e31-e1ef-4d8c-8294-315ef9305034.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149356891-344fa9af-e6cb-44a5-82ae-bac9925781c8.png)
+
 3.3 Desconecte el resistor R5 y mida el voltaje en el circuito abierto.
+
+![image](https://user-images.githubusercontent.com/94025287/149357106-0ac512a1-8c5c-42dd-9912-5d6bdee166c5.png)
 
 3.4 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
 
+![image](https://user-images.githubusercontent.com/94025287/149357383-97d682a8-6db2-49f3-8026-3136d8ced3ca.png)
+
 3.5 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo.
+
+![image](https://user-images.githubusercontent.com/94025287/149357162-b9f0833e-c1c7-461c-bb0c-5ea101a69546.png)
+
+![image](https://user-images.githubusercontent.com/94025287/149357178-fafd49f7-80a6-4783-9a5e-d2f3b6da9283.png)
 
 Calculos Analiticos:
 
@@ -82,6 +94,7 @@ Calculos Analiticos:
 
 4.- Video
 
+https://youtu.be/tAjiPXKoP4M
 
 5.- Conclusiones
 
